@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cheese.jpg</file>
+        <file>res/tank.jpg</file>
+        <file>res/green_tank.jpg</file>
+        <file>res/red_tank.jpg</file>
+        <file>res/tank.png</file>
+        <file>res/die_bomb.WAV</file>
+        <file>res/grass.jpg</file>
+        <file>res/oh_no.wav</file>
+        <file>res/MultiKill_8_CT.wav</file>
+        <file>res/MultiKill_4_CT.wav</file>
+        <file>res/MultiKill_3_CT.wav</file>
+        <file>res/MultiKill_2_CT.wav</file>
+        <file>res/MultiKill_1_CT.wav</file>
+        <file>res/kill1.png</file>
+        <file>res/kill2.png</file>
+        <file>res/kill3.png</file>
+        <file>res/kill4.png</file>
+    </qresource>
+</RCC>
